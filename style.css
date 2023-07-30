@@ -74,7 +74,7 @@ header nav .icon i {
 }
 #beautiful .box .btn {
   padding: 13px 30px;
-  background-color: #38b6c1;
+  background-color: #3cc1d8;
   color: white;
   font-size: 20px;
   border-radius: 5px;
@@ -158,7 +158,7 @@ header nav .icon i {
   background-color: #f1f8f9;
 }
 #home .textbox h1 {
-  color: #0bccc6;
+  color: #3cc1d8;
   font-size: 60px;
   font-weight: 700;
 }
@@ -169,7 +169,7 @@ header nav .icon i {
   line-height: 1.3;
 }
 #home .textbox .btn {
-  background-color: #38b6c1;
+  background-color: #3cc1d8;
   color: white;
   padding: 15px 30px;
   font-size: 20px;
@@ -195,7 +195,7 @@ header nav .icon i {
   font-weight: 700;
   font-size: 60px;
   margin-bottom: 60px;
-  color: #0bccc6;
+  color: #3cc1d8;
 }
 #works .box .textbox {
   padding: 35px 55px;
@@ -223,7 +223,7 @@ header nav .icon i {
 #menu .textbox h1 {
   font-weight: 700;
   font-size: 65px;
-  color: #0bccc6;
+  color: #3cc1d8;
 }
 #menu .textbox h4 {
   font-size: 25px;
@@ -232,7 +232,7 @@ header nav .icon i {
   line-height: 1.2;
 }
 #menu .textbox h4 span {
-  color: #0bccc6;
+  color: #3cc1d8;
   text-decoration-line: underline;
 }
 #menu .btn {
@@ -243,7 +243,7 @@ header nav .icon i {
   border-radius: 5px;
 }
 #menu .blue {
-  background-color: #0bccc6;
+  background-color: #3cc1d8;
   color: white;
 }
 #menu .box {
@@ -264,7 +264,7 @@ header nav .icon i {
   font-weight: 700;
 }
 #menu .box .textbox .minibox h5 {
-  color: #0bccc6;
+  color: #3cc1d8;
   font-size: 20px;
 }
 #menu .box .textbox p {
@@ -283,7 +283,7 @@ header nav .icon i {
 }
 #menu .box .textbox .add .btn {
   padding: 9px 22px;
-  background-color: #0bccc6;
+  background-color: #3cc1d8;
   color: white;
 }
 #menu .big {
@@ -363,7 +363,7 @@ header nav .icon i {
 }
 #order .textbox h1 {
   font-weight: 700;
-  color: #0bccc6;
+  color: #3cc1d8;
   font-size: 70px;
 }
 #order .textbox h5 {
@@ -374,7 +374,7 @@ header nav .icon i {
 }
 #order .textbox .btn {
   border-radius: 5px;
-  background-color: #0bccc6;
+  background-color: #3cc1d8;
   padding: 12px 35px;
   color: white;
   font-size: 19px;
@@ -399,7 +399,7 @@ header nav .icon i {
   }
   #order .textbox .minibox .btn {
     border-radius: 5px;
-    background-color: #0bccc6;
+    background-color: #3cc1d8;
     padding: 12px 35px;
     color: white;
     font-size: 19px;
@@ -428,7 +428,7 @@ header nav .icon i {
 #ourstore .textbox h1 {
   font-weight: 700;
   font-size: 65px;
-  color: #0bccc6;
+  color: #3cc1d8;
 }
 #ourstore .textbox h5 {
   font-size: 25px;
@@ -440,7 +440,7 @@ header nav .icon i {
   padding: 10px 35px;
   color: white;
   font-size: 20px;
-  background-color: #0bccc6;
+  background-color: #3cc1d8;
 }
 @media screen and (max-width: 768px) {
   #ourstore .textbox h1 {
@@ -492,11 +492,11 @@ header nav .icon i {
   padding: 10px 30px;
   margin: 30px 0 0 40px;
   background-color: white;
-  color: #38b6c1;
+  color: #3cc1d8;
   font-size: 22px;
 }
 #local .blue {
-  background-color: #35b6c1;
+  background-color: #3cc1d8;
 }
 @media screen and (max-width: 992px) {
   #local .textbox {
