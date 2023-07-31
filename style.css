@@ -354,6 +354,15 @@ header nav .icon i {
     justify-content: space-between;
   }
 }
+@media screen and (max-width: 500px) {
+  #menu .main {
+    display: flex;
+    flex-direction: column;
+  }
+  #menu .main .btn {
+    margin: 10px 0;
+  }
+}
 @media screen and (max-width: 320px) {
   #menu .main {
     display: flex;
@@ -387,7 +396,7 @@ header nav .icon i {
 }
 @media screen and (max-width: 768px) {
   #order .imgbox {
-    width: 400px;
+    width: auto;
   }
   #order .textbox {
     margin-left: 0;

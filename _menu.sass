@@ -104,10 +104,15 @@
             .add
                 justify-content: space-between
 
-
+    @media screen and ( max-width: 500px )
+        .main
+            display: flex
+            flex-direction: column
+            .btn
+                margin: 10px 0
     @media screen and ( max-width: 320px )
         .main
             display: flex
             flex-direction: column
             .btn
-               margin: 15px 0
+                margin: 15px 0
