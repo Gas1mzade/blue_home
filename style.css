@@ -123,6 +123,7 @@ header nav .icon i {
   }
   #beautiful .box h4 {
     font-size: 15px;
+    margin: 10px 0 20px;
   }
   #beautiful .big {
     display: flex;
@@ -174,6 +175,11 @@ header nav .icon i {
   padding: 15px 30px;
   font-size: 20px;
   border-radius: 5px;
+}
+@media screen and (max-width: 768px) {
+  #home .btn {
+    margin: 0 0 20px;
+  }
 }
 @media screen and (max-width: 576px) {
   #home .textbox h1 {
@@ -454,6 +460,7 @@ header nav .icon i {
   #ourstore .textbox .btn {
     font-size: 25px;
     padding: 10px 30px;
+    margin: 10px 0 20px;
   }
   #ourstore .textbox .btn h2 {
     font-size: 20px;
@@ -505,7 +512,7 @@ header nav .icon i {
 }
 @media screen and (max-width: 768px) {
   #local .imgbox {
-    width: 468px;
+    width: auto;
   }
   #local .textbox {
     height: 350px;
