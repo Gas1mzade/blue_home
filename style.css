@@ -14,6 +14,10 @@ section {
   padding: 80px 0;
 }
 
+.btn h2, .btn h3 {
+  cursor: pointer;
+}
+
 header {
   padding: 20px 0;
 }
@@ -489,9 +493,11 @@ header nav .icon i {
 }
 
 #local .textbox {
-  height: 470px;
+  background-color: #3cc1d8;
+  width: 100%;
+  height: 100%;
   display: flex;
-  align-content: center;
+  align-items: center;
   flex-wrap: wrap;
 }
 #local .textbox h1 {
@@ -511,28 +517,20 @@ header nav .icon i {
   color: #3cc1d8;
   font-size: 22px;
 }
-#local .blue {
-  background-color: #3cc1d8;
-}
 @media screen and (max-width: 992px) {
-  #local .textbox {
-    height: 340px;
+  #local .textbox h1 {
+    font-size: 40px;
   }
 }
 @media screen and (max-width: 768px) {
-  #local .imgbox {
-    width: auto;
-  }
   #local .textbox {
-    height: 350px;
+    height: 100%;
+    margin: 1px 0 50px;
   }
   #local .textbox h1 {
-    font-size: 50px;
-    margin: 0 40px 0 40px;
+    font-size: 40px;
   }
-}
-@media screen and (max-width: 576px) {
-  #local .imgbox {
-    width: 100%;
+  #local .textbox .btn {
+    margin: 15px 0 0 40px;
   }
 }/*# sourceMappingURL=style.css.map */
