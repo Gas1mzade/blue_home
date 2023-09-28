@@ -35,21 +35,23 @@ header nav .home-color {
 header nav .icon {
   display: none;
   flex-direction: row;
-  border: 5px solid rgba(76, 156, 202, 0.768627451);
   background-color: rgba(76, 156, 202, 0.768627451);
+  border-radius: 5px;
+  padding: 5px 8px;
 }
 header nav .icon h1 {
-  font-size: 25px;
+  font-size: 20px;
   padding-right: 4px;
+  color: #ffffff;
 }
 header nav .icon i {
-  font-size: 20px;
-  color: rgba(2, 2, 2, 0.5490196078);
+  font-size: 15px;
+  color: #ffffff;
   padding-top: 3px;
 }
 @media screen and (max-width: 768px) {
   header .imgbox {
-    width: 50px;
+    width: 40px;
   }
   header nav a {
     display: none;
