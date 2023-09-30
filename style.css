@@ -37,7 +37,7 @@ header nav .icon {
   flex-direction: row;
   background-color: rgba(76, 156, 202, 0.768627451);
   border-radius: 5px;
-  padding: 5px 8px;
+  padding: 5px 8pxa;
 }
 header nav .icon h1 {
   font-size: 20px;
