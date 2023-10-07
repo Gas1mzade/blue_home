@@ -37,7 +37,7 @@ header nav .icon {
   flex-direction: row;
   background-color: rgba(76, 156, 202, 0.768627451);
   border-radius: 5px;
-  padding: 5px 8pxa;
+  padding: 7px 12px;
 }
 header nav .icon h1 {
   font-size: 20px;
@@ -47,7 +47,7 @@ header nav .icon h1 {
 header nav .icon i {
   font-size: 15px;
   color: #ffffff;
-  padding-top: 3px;
+  padding-top: 5px;
 }
 @media screen and (max-width: 768px) {
   header .imgbox {
